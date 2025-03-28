@@ -46,7 +46,7 @@ Retrieve the **Domain** and **Client ID** from the **Settings** tab in your Auth
 
 ## Run the Project
 ```sh
-npm start
+npm run dev
 ```
 The application runs on port `3000`. Visit [http://localhost:3000/](http://localhost:3000/) to access it.
 
